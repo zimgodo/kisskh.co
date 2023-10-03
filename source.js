@@ -3,7 +3,7 @@ const suffix = "X-KH:";
 
 const regions = { "All Regions": 0, "South Korea": 2, "Chinese": 1, "United States": 6, "Thailand": 5, "Japanese": 3, "Hong Kong": 4, "Taiwan": 7 }
 const langs = {"All Subtitles":0,"English":1,"Khmer":2,"Indonesian":3,"Malay":4,"Thai":5,"Arabic":10}
-const host = Buffer.from("aHR0cHM6Ly9raXNza2gubWU=", 'base64').toString('ascii');
+const host = Buffer.from("aHR0cHM6Ly9raXNza2guY28=", 'base64').toString('ascii');
 
 
 const NodeCache = require("node-cache");
